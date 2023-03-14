@@ -1,0 +1,25 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 50px;
+}
+
+.input {
+  width: 100px;
+}
+
+.contacts {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  padding: 20px 50px;
+  border: 2px solid black;
+  border-radius: 10px;
+}
+
+.contact {
+  background-color: aqua;
+  padding: 10px;
+}
